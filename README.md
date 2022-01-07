@@ -1,2 +1,2 @@
-# athenda-dependencies
+# athena-dependencies
 athena dependencies module
