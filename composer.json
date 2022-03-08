@@ -75,9 +75,7 @@
     "symfony/dotenv": "5.4.x-dev",
     "symfony/filesystem": "^5.4",
     "symfony/string": "^5.4",
-    "zendframework/zendframework1": "^1.12",
-    "doctrine/doctrine-module": "5.2.x-dev",
-    "doctrine/inflector": "2.1.x-dev"
+    "zendframework/zendframework1": "^1.12"
   },
   "require-dev": {
     "doctrine/coding-standard": "^9.0.0",
