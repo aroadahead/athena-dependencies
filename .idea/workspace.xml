@@ -212,7 +212,10 @@
       <option name="presentableId" value="Default" />
       <updated>1644958087132</updated>
       <workItem from="1644958089015" duration="608000" />
-      <workItem from="1646760297144" duration="659000" />
+      <workItem from="1646760297144" duration="874000" />
+      <workItem from="1646761209664" duration="607000" />
+      <workItem from="1647322021638" duration="28000" />
+      <workItem from="1647333258323" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="added doctrine orm">
       <created>1646760350270</created>
@@ -235,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646760830785</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added doctrine orm">
+      <created>1646760972255</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1646760972255</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,6 +261,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added doctrine orm" />
