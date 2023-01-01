@@ -79,7 +79,7 @@
     "doctrine/inflector": "2.1.x-dev",
     "doctrine/doctrine-orm-module": "5.2.x-dev",
     "doctrine/common": "3.3.x-dev",
-    "doctrine/dbal": "3.4.x-dev",
+    "doctrine/dbal": "3.5.x-dev",
     "imagine/imagine": "^0.6 || ^1.0"
   },
   "require-dev": {
